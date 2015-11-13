@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Splash Screen</string>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="home_screen">HOME SCREEN</string>
+    <string name="item_1">item 1</string>
+    <string name="item_2">item 2</string>
+    <string name="item_3">item 3</string>
+    <string name="item_4">item 4</string>
+    <string name="item_5">item 5</string>
+    <string name="item_6">item 6</string>
+    <string name="item_7">item 7</string>
+    <string name="item_8">item 8</string>
+    <string name="item_9">item 9</string>
+
 </resources>
